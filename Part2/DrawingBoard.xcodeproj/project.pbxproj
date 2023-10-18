@@ -13,6 +13,7 @@
 		2C1B254F2AE01EEE00B07456 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B254D2AE01EEE00B07456 /* Main.storyboard */; };
 		2C1B25512AE01EEF00B07456 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B25502AE01EEF00B07456 /* Assets.xcassets */; };
 		2C1B25542AE01EEF00B07456 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C1B25522AE01EEF00B07456 /* LaunchScreen.storyboard */; };
+		2C1B25602AE0221800B07456 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1B255F2AE0221800B07456 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2C1B25502AE01EEF00B07456 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C1B25532AE01EEF00B07456 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C1B25552AE01EEF00B07456 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C1B255F2AE0221800B07456 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				2C1B25472AE01EEE00B07456 /* AppDelegate.swift */,
 				2C1B25492AE01EEE00B07456 /* SceneDelegate.swift */,
+				2C1B255F2AE0221800B07456 /* Constants.swift */,
 				2C1B254B2AE01EEE00B07456 /* ViewController.swift */,
 				2C1B254D2AE01EEE00B07456 /* Main.storyboard */,
 				2C1B25502AE01EEF00B07456 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				2C1B254C2AE01EEE00B07456 /* ViewController.swift in Sources */,
 				2C1B25482AE01EEE00B07456 /* AppDelegate.swift in Sources */,
 				2C1B254A2AE01EEE00B07456 /* SceneDelegate.swift in Sources */,
+				2C1B25602AE0221800B07456 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
